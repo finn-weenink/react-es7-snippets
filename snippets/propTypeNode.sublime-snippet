@@ -1,0 +1,6 @@
+<snippet>
+<content><![CDATA[PropTypes.node,]]></content>
+<tabTrigger>ptnd</tabTrigger>
+<scope>source.js</scope>
+<description>propTypeNode</description>
+</snippet>

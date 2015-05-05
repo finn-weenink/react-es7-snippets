@@ -1,0 +1,9 @@
+<snippet>
+<content><![CDATA[state = {
+	$1
+}
+]]></content>
+<tabTrigger>est</tabTrigger>
+<scope>source.js</scope>
+<description>emptyState</description>
+</snippet>

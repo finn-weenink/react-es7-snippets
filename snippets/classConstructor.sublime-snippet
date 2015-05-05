@@ -1,0 +1,13 @@
+<snippet>
+<content><![CDATA[constructor(props) {
+	super(props)
+
+	this.state = {
+		 $0
+	}
+}
+]]></content>
+<tabTrigger>rconst</tabTrigger>
+<scope>source.js</scope>
+<description>classConstructor</description>
+</snippet>
